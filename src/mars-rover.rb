@@ -1,6 +1,5 @@
 require_relative "./rover"
 require_relative "./operator"
-
 plateau = ARGF.gets
 
 while !ARGF.eof
